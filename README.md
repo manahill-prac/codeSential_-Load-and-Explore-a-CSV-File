@@ -1,5 +1,7 @@
 # Load-and-Explore-a-CSV-File
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manahill-prac/codeSential_-Load-and-Explore-a-CSV-File/blob/main/Task01_Iris_Exploration.ipynb)
+
 The goal is to load a CSV dataset, explore its structure, and summarize key insights using **Python (Pandas & Numpy)**.
 
 ---
